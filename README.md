@@ -10,7 +10,7 @@ Advanced Software Construction provides you with the experience and skills neces
 
 The content for this course is represented by the following parts.
 
-- [Instruction](https://github.com/csinstructiontemplate/examplecourse/blob/main/instruction/modules.md#readme)
+- [Instruction](https://github.com/csinstructiontemplate/examplecourse/blob/main/instruction/instruction.md#readme)
 - [Schedule](https://github.com/csinstructiontemplate/examplecourse/blob/main/schedule/schedule.md)
 - Assignments, quizzes, and tests submitted through [Canvas](https://byu.instructure.com/)
 
