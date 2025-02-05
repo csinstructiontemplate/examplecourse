@@ -1,0 +1,2 @@
+# examplecourse
+Example course
