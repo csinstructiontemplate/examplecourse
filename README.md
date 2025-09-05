@@ -1,12 +1,12 @@
 ![BYU logo](byuLogo.png?raw=true)
 
-# BYU **Example Course** `cs000`
+# %%MASTERYLS_TITLE%% %%MASTERYLS_NAME%%
 
 ![cover](coursecover.jpg?raw=true)
 
 ## Welcome
 
-**Example Course** provides you with the experience and skills necessary to use a modern programming language in an advanced development environment to design, test, and build a large multi-user application. Your application will have a client frontend program that communicates, over the network, with a centralized backend server.
+%%MASTERYLS_DESCRIPTION%%
 
 The content for this course is represented by the following parts.
 

@@ -2,23 +2,12 @@
 
 ## Course Description
 
-This course Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt consectetur, nisi nisl aliquam enim, vitae facilisis erat urna non sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse potenti. Nullam ac erat euismod, dictum massa at, cursus enim. Etiam euismod, justo at facilisis cursus, enim urna dictum erat, nec cursus enim urna non sapien.
-
-## Course Content
-
-All of the content for this course is found here, in this GitHub repository. We use GitHub to host the content so that we can rapidly enhance and correct the content. Using GitHub also makes it so that you can get more familiar with this essential professional development tool.
-
-You can always reach the root of the content repository with this link:
-
-[https://github.com/softwareconstruction240](https://github.com/softwareconstruction240)
-
-We suggest that you bookmark the link for easy access to the content.
-
-If you find errors in the content then we encourage you to fork the content repository and [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). That way everyone benefits from your work, and you are listed as a contributor on a significant open source project.
+%%MASTERYLS_DESCRIPTION%%
 
 ##  Prerequisites
 
-CS 000
+- CS 000
+- CS 000
 
 ##  Course Learning Outcomes
 
@@ -56,7 +45,7 @@ Students Seeking TA Help Should First:
 
 ## **Final Exam**
 
-The final exam is taken online during the university final exam period. Just like the programming exam, it will be proctored with Honorlock.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod, nisi eu consectetur cursus, enim urna dictum erat, nec cursus enim urna non sapien. Suspendisse potenti. Nullam ac erat euismod, dictum massa at, cursus enim.
 
 ## **Late Policies**
 
