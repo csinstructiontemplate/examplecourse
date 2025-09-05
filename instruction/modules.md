@@ -5,28 +5,4 @@ The course content is divided into multiple topics that you should strive to mas
 ## Getting Started
 
 - [Introduction](introduction/introduction.md)
-- topic
-- topic
-- topic
-
-## Module 1
-
-- topic
-- ☑ topic
-- topic
-- topic
-- topic
-
-## Module 2
-
-- topic
-- topic
-- ☑ topic
-- topic
-- topic
-
-### Legend
-
-| Icon | Meaning                                    |
-| ---- | ------------------------------------------ |
-| ☑    | Assignments that you must submit in Canvas |
+- [Example topic](exampleTopic/exampleTopic.md)

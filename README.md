@@ -1,8 +1,8 @@
-![BYU logo](https://github.com/csinstructiontemplate/examplecourse/blob/main/byuLogo.png?raw=true)
+![BYU logo](byuLogo.png?raw=true)
 
 # BYU **Example Course** `cs000`
 
-![cover](https://github.com/csinstructiontemplate/examplecourse/blob/main/coursecover.jpg?raw=true)
+![cover](coursecover.jpg?raw=true)
 
 ## Welcome
 
@@ -10,11 +10,9 @@
 
 The content for this course is represented by the following parts.
 
-- 📘 [Instruction](https://github.com/csinstructiontemplate/examplecourse/blob/main/instruction/modules.md)
-- 📅 [Schedule](https://github.com/csinstructiontemplate/examplecourse/blob/main/schedule/schedule.md)
+- 📘 [Instruction](instruction/modules.md)
+- 📅 [Schedule](schedule/schedule.md)
 - 💯 Assignments, quizzes, and tests submitted through [Canvas](https://byu.instructure.com/)
-
-## Course Schedule
 
 ## Outcomes
 
