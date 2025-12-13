@@ -35,9 +35,9 @@ Here is a footnote reference.[^1]
 
 ## Links
 
-[Link internal](#mentions)
-[Link quiz](../exampleQuiz/exampleQuiz.md)
-[Link schedule](../../schedule/schedule.md)
+- [Link internal](#mentions)
+- [Link quiz](../exampleQuiz/exampleQuiz.md)
+- [Link schedule](../../schedule/schedule.md)
 
 ## Code Block
 
