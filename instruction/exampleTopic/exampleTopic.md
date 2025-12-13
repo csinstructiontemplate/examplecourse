@@ -8,11 +8,6 @@ Here is a footnote reference.[^1]
 
 [^1]: This is the footnote.
 
-## Emojis
-
-⭐ — Star
-📖 — Book
-
 ## Lists
 
 - Item 1
@@ -82,7 +77,12 @@ graph TD;
 
 ## Emoji
 
-:smile: :rocket: :tada: :+1:
+- :smile: — smile
+- :rocket: — rocket
+- :tada: — tada
+- :+1: — +1
+- ⭐ — Star
+- 📖 — Book
 
 ## Images
 
