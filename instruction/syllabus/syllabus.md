@@ -2,8 +2,6 @@
 
 ## Course Description
 
-%%MASTERYLS_DESCRIPTION%%
-
 ##  Prerequisites
 
 - CS 000

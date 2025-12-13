@@ -16,12 +16,6 @@ The term software engineering was first used in conjunction with the software cr
 >
 > — Margaret Hamilton
 
-## Canvas
-
-All of the course instruction is represented on GitHub, however we use [Canvas](https://byu.instructure.com/) to send out notifications, submit your projects, take exams, and view your grades.
-
-> [!IMPORTANT] Make sure you have enabled Canvas to send notifications to an email account that you monitor regularly. Failure to do this will mean that you miss important notifications that could impact your efforts and grade.
-
 ## Well Rounded Software Engineers
 
 The key to learning how to be an exceptional software engineer rests in your ability to continually improve in four areas.

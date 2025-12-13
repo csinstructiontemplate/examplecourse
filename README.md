@@ -1,35 +1,30 @@
 ![BYU logo](byuLogo.png?raw=true)
 
-# %%MASTERYLS_TITLE%% %%MASTERYLS_NAME%%
+# Course name
 
 ![cover](coursecover.jpg?raw=true)
 
 ## Welcome
 
-%%MASTERYLS_DESCRIPTION%%
-
 The content for this course is represented by the following parts.
 
-- 📘 [Instruction](instruction/modules.md)
 - 📅 [Schedule](schedule/schedule.md)
-- 💯 Assignments, quizzes, and tests submitted through [Canvas](https://byu.instructure.com/)
+- 📘 [Instruction](instruction/modules.md)
 
 ## Outcomes
 
 By the end of the course you should have experienced the following outcomes.
 
-- **title**: outcome
-- **title**: outcome
-- **title**: outcome
-- **title**: outcome
+- **title**: outcome 1
+- **title**: outcome 2
+- **title**: outcome 3
+- **title**: outcome 4
 
 ## Technologies
 
 The course covers a full software stack of technologies and topics.
 
-- technology x
-- technology x
-- technology x
-- technology x
-- technology x
-- technology x
+- technology 1
+- technology 2
+- technology 3
+- technology 4

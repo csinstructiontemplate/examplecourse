@@ -8,6 +8,11 @@ Here is a footnote reference.[^1]
 
 [^1]: This is the footnote.
 
+## Emojis
+
+⭐ — Star
+📖 — Book
+
 ## Lists
 
 - Item 1
@@ -28,9 +33,11 @@ Here is a footnote reference.[^1]
 
 `#0969DA`
 
-## Section links
+## Links
 
-[Link to mentions](#mentions)
+[Link internal](#mentions)
+[Link quiz](../exampleQuiz/exampleQuiz.md)
+[Link schedule](../../schedule/schedule.md)
 
 ## Code Block
 
