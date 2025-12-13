@@ -32,7 +32,7 @@
         },
         {
           "title": "Example quiz",
-          "path": "instruction/exampleQuiz/exampleQuiz.md"
+          "path": "instruction/exampleQuiz/exampleQuiz.md",
           "type": "quiz"
         },
         {
