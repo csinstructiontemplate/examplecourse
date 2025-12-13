@@ -16,6 +16,10 @@
         {
           "title": "Schedule",
           "path": "schedule/schedule.md"
+        },
+        {
+          "title": "Instruction",
+          "path": "instruction/modules.md"
         }
       ]
     },
