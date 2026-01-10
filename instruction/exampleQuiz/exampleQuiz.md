@@ -1,17 +1,19 @@
-# Example Quiz
 
-This demonstrates how to write quizzes in Mastery LS format.
+# Example quiz
+
+![Topic Cover](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/cover.jpg)
 
 ```masteryls
-{"id":"a347b1df-9f80-4d3e-8585-a64bc1f76a5f", "title":"Multiple choice", "type":"multiple-choice", "body":"Simple **multiple choice** question" }
+{"id":"a3b2a9f8-25e3-4ca4-8cca-42f3eb20537d", "title":"Multiple choice", "type":"multiple-choice", "body": "A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage." }
 - [ ] This is **not** the right answer
-- [x] This is _the_ right answer
-- [ ] This one has a [link](https://cow.com)
-- [ ] This one has an image ![Stock Photo](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80)
+- [ ] This is **not** the right answer
+- [x] The right answer
+- [ ] This is **not** the right answer
 ```
 
+
 ```masteryls
-{"id":"d3faa8e4-03ee-4bc2-bfe4-4f448940daa0", "title":"Multiple select", "type":"multiple-select", "body": "A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage." }
+{"id":"a3b2a9f8-25e3-4ca4-8cca-42f3eb20537e", "title":"Multiple select", "type":"multiple-select", "body": "A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage." }
 - [ ] This is **not** the right answer
 - [x] This is _the_ right answer
 - [ ] This is **not** the right answer
@@ -19,14 +21,36 @@ This demonstrates how to write quizzes in Mastery LS format.
 - [ ] This is **not** the right answer
 ```
 
+
 ```masteryls
-{"id":"c42bd013-a1ac-4cf1-b425-ae78bd753d8f", "title":"Essay", "type":"essay", "body":"Simple **essay** question" }
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Teaching", "type":"teaching", "question":"Help me understand the **Socratic method**." }
 ```
 
 ```masteryls
-{"id":"e5e7cc56-0173-4cda-8938-a27235a33bc3", "title":"File submission", "type":"file-submission", "body":"Simple **submission** by file", "allowComment":true  }
+{"id":"40824056-92f3-48e6-8f68-f0f63d67071f", "title":"Multiple select survey", "type":"survey",  "multipleSelect": "true", "body":"What would you have as a pet?" }
+- [ ] 🐱 Cat
+- [ ] 🐶 Dog
+- [ ] 🐹 Hamster
+- [ ] 🐠 Fish
+- [ ] 🪨 Rock
+- [ ] Other
 ```
 
 ```masteryls
-{"id":"18a20532-4e47-42e7-ac2c-cffc3c35f8c5", "title":"URL submission", "type":"url-submission", "body":"Simple **submission** by url", "allowComment":true }
+{"id":"bd56d044-03ce-45f2-b004-462c911ce27d",   "title":"Multiple choice survey", "type":"survey",  "body":"I found this instruction helpful?" }
+- [ ] 🙂 Helpful
+- [ ] 😐 **Somewhat** helpful
+- [ ] 🙁 **Not** helpful
+```
+
+```masteryls
+{"id":"25a5068d-4b97-4c7d-9936-cf97b426f87e", "title":"Essay", "type":"essay", "body":"What is the **Fermi Paradox**?" }
+```
+
+```masteryls
+{"id":"681edaf2-8c77-46cc-8014-f3ed1634b199", "title":"File submission", "type":"file-submission", "body":"Provide a screen capture of your testing results.", "allowComment":true  }
+```
+
+```masteryls
+{"id":"76b87c04-6c7b-430e-9b04-aae522d571e2", "title":"URL submission", "type":"url-submission", "body":"Provide the URL of your production website.", "allowComment":true }
 ```
