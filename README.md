@@ -1,4 +1,4 @@
-<img size="150" src="byuLogo.png" alt="BYU logo" />
+<img size="100" src="byuLogo.png" alt="BYU logo" />
 
 # Course name
 
