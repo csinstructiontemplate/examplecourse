@@ -1,5 +1,3 @@
-<img size="100" src="byuLogo.png" alt="BYU logo" />
-
 # Course name
 
 ![cover](coursecover.jpg?raw=true)
