@@ -1,4 +1,4 @@
-![BYU logo](byuLogo.png?raw=true)
+<img size="150" src="byuLogo.png" alt="BYU logo" />
 
 # Course name
 
